@@ -1,0 +1,121 @@
+**Privacy Policy for PU Circle**
+
+Effective Date: [Insert Date]
+
+PU Circle ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (the "App") designed exclusively for Parul University students. Please read this policy carefully. By using PU Circle, you consent to the data practices described in this Privacy Policy.
+
+---
+
+**1. Information We Collect**
+
+When you use PU Circle, we may collect the following information:
+
+**a. Personal Information**
+- Name
+- Email address
+- Phone number
+- Profile picture
+
+**b. Non-Personal Information**
+- App usage data and interaction history
+- Firebase installation ID and token
+
+**c. User-Generated Content**
+- Posts, photos, bios, comments, and messages
+- Friend requests and connections
+
+---
+
+**2. How We Use Your Information**
+
+We use the collected data for the following purposes:
+
+- To verify your identity and ensure you're a Parul University student
+- To create and manage your user profile
+- To facilitate social interactions and matching features
+- To allow you to discover and connect with other students
+- To enable secure in-app messaging
+- To send you important notifications and updates
+
+---
+
+**3. Sharing of Information**
+
+We may share your information in the following scenarios:
+
+**a. With other users**
+- Your profile details, interests, and public posts will be visible to other PU Circle users.
+
+**b. With service providers**
+- We may use third-party services (e.g., Firebase, Cloudinary) to store and manage data. These providers are bound by their own privacy policies and confidentiality obligations.
+
+**c. For legal reasons**
+- We may disclose your data when required by law, regulation, legal process, or government request.
+
+**d. In business transitions**
+- In the event of a merger, acquisition, or asset sale, your data may be transferred.
+
+---
+
+**4. Data Storage and Security**
+
+We use industry-standard security measures to protect your personal information. This includes encrypted data transmission, secure storage via Firebase, and access controls. However, no method of transmission or storage is 100% secure. We encourage users to be mindful of the information they share.
+
+---
+
+**5. Data Retention**
+
+We retain your personal data as long as your account is active or as needed to provide you with services. You may request to delete your account and associated data at any time by contacting us.
+
+---
+
+**6. Your Rights and Choices**
+
+You have the right to:
+- Access, correct, or update your personal information
+- Request the deletion of your data
+- Withdraw consent for data usage (which may limit app functionality)
+- Opt-out of notifications and marketing communications
+
+To exercise these rights, email us at: teaservlog@gmail.com
+
+---
+
+**7. Children's Privacy**
+
+PU Circle is intended for users aged 16 and above, exclusively for students of Parul University. We do not knowingly collect data from minors under this age. If we become aware that we’ve collected data from a child under the applicable age limit, we will take steps to delete that information.
+
+---
+
+**8. Cookies and Tracking Technologies**
+
+PU Circle may use tracking tools such as Firebase Analytics to monitor usage patterns and user behavior. These technologies help improve the app experience but do not collect personally identifiable information without your consent.
+
+---
+
+**9. Third-Party Links and Services**
+
+PU Circle may contain links to third-party websites or services. We are not responsible for their privacy practices. We recommend reviewing the privacy policies of those third parties before sharing any data.
+
+---
+
+**10. Changes to This Policy**
+
+We may update this Privacy Policy from time to time. Changes will be notified within the app or via email. Your continued use of the app after such updates indicates acceptance of the revised policy.
+
+---
+
+**11. Contact Us**
+
+If you have any questions, concerns, or requests about this Privacy Policy or your data, please contact:
+
+Pratik Shukla  
+Developer, PU Circle  
+Email: teaservlog@gmail.com
+
+---
+
+Thank you for trusting PU Circle. We are committed to protecting your privacy while helping students connect and build a vibrant campus community.
+
+— PU Circle Team
+
